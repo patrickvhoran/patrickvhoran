@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickvhoran
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+
 -    📫 How to reach me: 
 -    phoran@rollins.edu 
 -    @patrickvhoran on instagram
